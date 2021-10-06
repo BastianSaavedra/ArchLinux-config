@@ -1,0 +1,8 @@
+[2021-07-08 00:32:24.619] [renderer1] [error] Error: Unable to read file '/home/zets/3.0.1' (Error: Unable to resolve non-existing file '/home/zets/3.0.1')
+    at n (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:9:490)
+    at i.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2242:161675)
+    at i.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2242:165739)
+    at i.setInput (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2242:161354)
+    at async l.doSetInput (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1798:10549)
+    at async l.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1798:9103)
+    at async file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2452:15923

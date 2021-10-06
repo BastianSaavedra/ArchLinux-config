@@ -1,0 +1,15 @@
+make virtualenv in python 2:
+
+	virtualenv name_of_your_env
+
+make virtualenv in python 3:
+	
+	virtualenv name_of_your_env -p python3
+
+active virtual env in linux:
+	
+		source name_of_your_env\bin\active
+	
+desactive your env:
+	
+	desactive

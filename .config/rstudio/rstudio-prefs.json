@@ -1,0 +1,14 @@
+{
+    "jobs_tab_visibility": "shown",
+    "document_author": "Zets",
+    "initial_working_directory": "~/Workspace/Studies/R",
+    "pdf_previewer": "rstudio",
+    "posix_terminal_shell": "bash",
+    "python_type": "system",
+    "python_version": "3.9.6",
+    "python_path": "/usr/bin/python",
+    "default_project_location": "~/Workspace/Studies/Estadistica_descriptiva",
+    "wrap_tab_navigation": false,
+    "font_size_points": 12,
+    "editor_theme": "Dracula"
+}

@@ -1,0 +1,19 @@
+Looking for git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/zets/dotfiles-antonio
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.config/nvim/init.vim
+> git ls-files --stage -- /home/zets/dotfiles-antonio/.config/nvim/init.vim
+> git cat-file -s f5314b904b8c59313de33f290773226714a03a0a
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :.config/nvim/vim-plug/plugins.vim
+> git ls-files --stage -- /home/zets/dotfiles-antonio/.config/nvim/vim-plug/plugins.vim
+> git cat-file -s 297d79e949e3a98a6f3eb28a198f28aeeeae0ab8

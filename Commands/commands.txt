@@ -1,0 +1,2 @@
+imv 'ubicacion/foto'
+yay -Qe --Para saber que paquetes tengo instalado

@@ -1,0 +1,25 @@
+Looking for git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/zets/.config/nvim
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/zets/.config/nvim/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :init.vim
+> git ls-files --stage -- /home/zets/.config/nvim/init.vim
+> git cat-file -s 92290b36f5241ab9f0b3cdad5f2973513fc380cd
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/zets' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+> git show --textconv :init.vim
+> git ls-files --stage -- /home/zets/.config/nvim/init.vim
+> git cat-file -s 92290b36f5241ab9f0b3cdad5f2973513fc380cd

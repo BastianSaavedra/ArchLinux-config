@@ -1,0 +1,98 @@
+2021-07-07T17:33:17.408Z - info: [ui] [AppStore] loading 0 repositories from store
+2021-07-07T17:33:17.427Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2021-07-07T17:33:17.495Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2021-07-07T17:33:17.541Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2021-07-07T17:33:17.560Z - info: [ui] launching: 2.9.0-linux1 (Linux 5.12.14-arch1-1)
+2021-07-07T17:33:17.561Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2021-07-07T17:33:17.922Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2021-07-07T17:33:18.132Z - info: [ui] Opt in reported.
+2021-07-07T17:33:44.129Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2021-07-07T17:33:44.133Z - info: [ui] [SignInStore] initializing OAuth flow
+2021-07-07T17:33:44.139Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=ada30a08-8087-4df4-81fc-9a6eeca7a4cd
+2021-07-07T17:33:44.140Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2021-07-07T17:34:32.637Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2021-07-07T17:34:54.678Z - info: [main] Received possible protocol arguments: 2
+2021-07-07T17:34:54.678Z - info: [main] Processing protocol url
+2021-07-07T17:34:54.688Z - info: [ui] [Dispatcher] requesting authenticated user
+2021-07-07T17:34:54.690Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2021-07-07T17:34:57.002Z - info: [ui] [SignInStore] account resolved
+2021-07-07T17:34:57.003Z - info: [ui] [AppStore] adding account KizsawaQwerty (Bastian Saavedra) to store
+2021-07-07T17:34:57.014Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2021-07-07T17:34:57.104Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2021-07-07T17:35:16.727Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2021-07-07T17:35:17.232Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2021-07-07T17:35:23.449Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2021-07-07T17:40:49.162Z - info: [ui] [AppStore] loading 0 repositories from store
+2021-07-07T17:40:49.162Z - info: [ui] [AppStore] found account: KizsawaQwerty (Bastian Saavedra)
+2021-07-07T17:40:49.320Z - info: [ui] launching: 2.9.0-linux1 (Linux 5.12.14-arch1-1)
+2021-07-07T17:40:49.321Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2021-07-07T17:40:49.876Z - info: [ui] Stats reported.
+2021-07-07T18:30:33.389Z - info: [ui] [AppStore] loading 0 repositories from store
+2021-07-07T18:30:33.389Z - info: [ui] [AppStore] found account: KizsawaQwerty (Bastian Saavedra)
+2021-07-07T18:30:33.534Z - info: [ui] launching: 2.9.0-linux1 (Linux 5.12.14-arch1-1)
+2021-07-07T18:30:33.535Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2021-07-07T18:53:29.414Z - info: [ui] [AppStore] adding repository at /home/zets/Workspace/Studies/Estadistica_descriptiva/CursoR-Basic to store
+2021-07-07T18:53:30.870Z - info: [ui] [BranchPruner] No branches to prune.
+2021-07-07T18:54:53.147Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/zets/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2021-07-07T18:55:11.715Z - info: [ui] [AppStore] adding repository at /home/zets/Workspace/Studies/Estadistica_descriptiva/CursoR-Basic to store
+2021-07-07T18:55:11.826Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2021-07-07T18:55:14.688Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2021-07-07T18:55:17.957Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: r-basic - KizsawaQwerty (has token)
+2021-07-07T18:55:43.736Z - info: [ui] [AppStore] loading 1 repositories from store
+2021-07-07T18:55:43.737Z - info: [ui] [AppStore] found account: KizsawaQwerty (Bastian Saavedra)
+2021-07-07T18:55:44.097Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2021-07-07T18:55:44.187Z - info: [ui] launching: 2.9.0-linux1 (Linux 5.12.14-arch1-1)
+2021-07-07T18:55:44.188Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2021-07-07T18:55:49.695Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/zets/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2021-07-07T18:56:13.502Z - info: [ui] [AppStore] adding repository at /home/zets/Workspace/Studies/Estadistica_descriptiva/CursoR-Basic to store
+2021-07-07T18:56:13.586Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2021-07-07T18:56:49.035Z - info: [ui] [AppStore] loading 1 repositories from store
+2021-07-07T18:56:49.036Z - info: [ui] [AppStore] found account: KizsawaQwerty (Bastian Saavedra)
+2021-07-07T18:56:49.425Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2021-07-07T18:56:49.549Z - info: [ui] launching: 2.9.0-linux1 (Linux 5.12.14-arch1-1)
+2021-07-07T18:56:49.551Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2021-07-07T18:56:55.043Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/zets/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2021-07-07T18:56:55.071Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: r-basic - KizsawaQwerty (has token)
+2021-07-07T18:57:09.612Z - info: [ui] [Timing] Action 'create commit' for 'joanby/r-basic' took 0.364s
+2021-07-07T18:57:09.681Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 14.552s)
+2021-07-07T19:02:37.817Z - info: [ui] [AppStore] loading 1 repositories from store
+2021-07-07T19:02:37.818Z - info: [ui] [AppStore] found account: KizsawaQwerty (Bastian Saavedra)
+2021-07-07T19:02:37.963Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2021-07-07T19:02:38.032Z - info: [ui] launching: 2.9.0-linux1 (Linux 5.12.14-arch1-1)
+2021-07-07T19:02:38.033Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2021-07-07T19:03:04.890Z - info: [ui] [AppStore] adding repository at /home/zets/Workspace/Studies/Estadistica_descriptiva/Basic-R to store
+2021-07-07T19:03:06.883Z - info: [ui] [BranchPruner] No branches to prune.
+2021-07-07T19:03:10.783Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/zets/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2021-07-07T19:03:10.785Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: r-basic - KizsawaQwerty (has token)
+2021-07-07T19:03:11.634Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/zets/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2021-07-07T19:03:13.116Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune upstream (took 1.261s)
+2021-07-07T19:03:19.502Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/zets/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2021-07-07T19:03:21.193Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: r-basic - KizsawaQwerty (has token)
+2021-07-07T19:04:08.826Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.4s of which 0.0s paused, total 0.4s
+2021-07-07T19:04:13.117Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: r-basic - KizsawaQwerty (has token)
+2021-07-07T19:04:37.313Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 24.151s)
+2021-07-07T19:15:24.001Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: r-basic - KizsawaQwerty (has token)
+2021-07-07T19:15:26.986Z - error: [ui] Highlighter worked failed for old contents
+Error: timed out
+    at /home/zets/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2021-07-07T19:15:26.988Z - error: [ui] Highlighter worked failed for new contents
+Error: timed out
+    at /home/zets/webpack:/app/src/lib/highlighter/worker.ts:85:14
+2021-07-07T19:16:09.103Z - info: [ui] [Timing] Action 'create commit' for 'kizsawaqwerty/r-basic' took 0.305s
+2021-07-07T19:16:28.623Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: r-basic - KizsawaQwerty (has token)
+2021-07-07T19:18:50.133Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 141.498s)
+2021-07-07T19:19:25.323Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.3s of which 0.0s paused, total 0.3s
+2021-07-07T19:24:55.500Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2021-07-07T20:24:18.443Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: r-basic - KizsawaQwerty (has token)
